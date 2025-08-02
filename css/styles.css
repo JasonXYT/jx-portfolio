@@ -618,6 +618,12 @@ progress {
   margin-bottom: 0.5rem;
 }
 
+.skill-logo-right {
+  height: 3rem;
+  float: right;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
 
 .figure {
   display: inline-block;
