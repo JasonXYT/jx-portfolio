@@ -612,6 +612,12 @@ progress {
   height: auto;
 }
 
+.skill-logo {
+  height: 3rem;
+  object-fit: contain;
+  margin-bottom: 0.5rem;
+}
+
 .figure {
   display: inline-block;
 }
