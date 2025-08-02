@@ -618,6 +618,12 @@ progress {
   margin-bottom: 0.5rem;
 }
 
+.skill-brain-graphic {
+  height: 5rem;
+  object-fit: contain;
+  margin-bottom: 1.0rem;
+}
+
 .figure {
   display: inline-block;
 }
