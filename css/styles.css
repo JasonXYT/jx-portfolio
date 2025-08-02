@@ -621,7 +621,7 @@ progress {
 .skill-brain-graphic {
   height: 5rem;
   object-fit: contain;
-  margin-bottom: 1.0rem;
+  margin-bottom: 0.5rem;
 }
 
 .figure {
